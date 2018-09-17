@@ -1,7 +1,7 @@
 # CloudWatchDashboardCreationWithPython
 This python script will create CloudWatch Dashboards by for each instance iterating over specified environment in command parameter.
 
-For example: 
+## For example: 
 ```bash
 python init_cloudwatch_dashboard.py {{environment}}
 ```
